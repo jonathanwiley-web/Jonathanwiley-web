@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.linkedin.com/in/jonathan-wiley-b851b632">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Jonathan! <br/><a href="https://github.com">Programmer</a>, <a href="www.linkedin.com/in/jonathan-wiley-b851b632">Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
